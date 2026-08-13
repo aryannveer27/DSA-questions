@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryannveer27/DSA-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Array
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/aryannveer27/DSA-questions/tree/master/1920-build-array-from-permutation) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/aryannveer27/DSA-questions/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
