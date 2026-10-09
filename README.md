@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aryannveer27/DSA-questions/tree/master/0053-maximum-subarray) |
+| [0704-binary-search](https://github.com/aryannveer27/DSA-questions/tree/master/0704-binary-search) |
 | [1920-build-array-from-permutation](https://github.com/aryannveer27/DSA-questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aryannveer27/DSA-questions/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aryannveer27/DSA-questions/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/aryannveer27/DSA-questions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
