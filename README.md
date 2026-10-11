@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aryannveer27/DSA-questions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/aryannveer27/DSA-questions/tree/master/0069-sqrtx) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aryannveer27/DSA-questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryannveer27/DSA-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
@@ -35,10 +36,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/aryannveer27/DSA-questions/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/aryannveer27/DSA-questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryannveer27/DSA-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryannveer27/DSA-questions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/aryannveer27/DSA-questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
