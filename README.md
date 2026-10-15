@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aryannveer27/DSA-questions/tree/master/0053-maximum-subarray) |
 | [0704-binary-search](https://github.com/aryannveer27/DSA-questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryannveer27/DSA-questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/aryannveer27/DSA-questions/tree/master/1539-kth-missing-positive-number) |
 | [1920-build-array-from-permutation](https://github.com/aryannveer27/DSA-questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aryannveer27/DSA-questions/tree/master/1929-concatenation-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aryannveer27/DSA-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/aryannveer27/DSA-questions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/aryannveer27/DSA-questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryannveer27/DSA-questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/aryannveer27/DSA-questions/tree/master/1539-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aryannveer27/DSA-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Ternary Search
 |  |
