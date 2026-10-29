@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aryannveer27/DSA-questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/aryannveer27/DSA-questions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/aryannveer27/DSA-questions/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/aryannveer27/DSA-questions/tree/master/0441-arranging-coins) |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryannveer27/DSA-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aryannveer27/DSA-questions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aryannveer27/DSA-questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
