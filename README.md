@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aryannveer27/DSA-questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/aryannveer27/DSA-questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aryannveer27/DSA-questions/tree/master/0119-pascals-triangle-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aryannveer27/DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/aryannveer27/DSA-questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryannveer27/DSA-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/aryannveer27/DSA-questions/tree/master/0867-transpose-matrix) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aryannveer27/DSA-questions/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aryannveer27/DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/aryannveer27/DSA-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aryannveer27/DSA-questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/aryannveer27/DSA-questions/tree/master/0069-sqrtx) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aryannveer27/DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0441-arranging-coins](https://github.com/aryannveer27/DSA-questions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/aryannveer27/DSA-questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryannveer27/DSA-questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -111,5 +114,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/aryannveer27/DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/aryannveer27/DSA-questions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
