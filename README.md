@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/aryannveer27/DSA-questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aryannveer27/DSA-questions/tree/master/1929-concatenation-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aryannveer27/DSA-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/aryannveer27/DSA-questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aryannveer27/DSA-questions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Simulation
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aryannveer27/DSA-questions/tree/master/0088-merge-sorted-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/aryannveer27/DSA-questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Trie
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aryannveer27/DSA-questions/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryannveer27/DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/aryannveer27/DSA-questions/tree/master/0867-transpose-matrix) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/aryannveer27/DSA-questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
