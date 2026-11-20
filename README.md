@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aryannveer27/DSA-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aryannveer27/DSA-questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aryannveer27/DSA-questions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aryannveer27/DSA-questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Simulation
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aryannveer27/DSA-questions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/aryannveer27/DSA-questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aryannveer27/DSA-questions/tree/master/0119-pascals-triangle-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aryannveer27/DSA-questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aryannveer27/DSA-questions/tree/master/0088-merge-sorted-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aryannveer27/DSA-questions/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aryannveer27/DSA-questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Trie
 |  |
 | ------- |
