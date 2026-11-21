@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aryannveer27/DSA-questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aryannveer27/DSA-questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aryannveer27/DSA-questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aryannveer27/DSA-questions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Simulation
 |  |
 | ------- |
@@ -87,11 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryannveer27/DSA-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aryannveer27/DSA-questions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryannveer27/DSA-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/aryannveer27/DSA-questions/tree/master/0014-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aryannveer27/DSA-questions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -128,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aryannveer27/DSA-questions/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aryannveer27/DSA-questions/tree/master/3331-find-subtree-sizes-after-changes) |
+## Depth-First Search
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aryannveer27/DSA-questions/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
